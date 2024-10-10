@@ -35,8 +35,8 @@ To run the projects, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ghackk-technologies-ai-internship.git
-   cd ghackk-technologies-ai-internship
+   git clone https://github.com/yourusername/Ghackk-Technologies.git
+   cd Ghackk-Technologies
    ```
 
 2. Install the required libraries:
