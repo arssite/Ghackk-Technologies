@@ -7,7 +7,7 @@ This repository contains a series of tasks completed during the AI internship at
 ## Table of Contents
 
 1. [Task 1: Webtoon Content Classifier](#task-1-webtoon-content-classifier)
-2. [Task 2: Sentiment Analysis](#task-2-sentiment-analysis)
+2. [Task 2: Sentiment Analysis]((https://github.com/arssite/Ghackk-Technologies/blob/main/Task2_sentiment_analysis_on_user_comments.ipynb))
 3. [Task 3: Castle Swimmer Chatbot](#task-3-castle-swimmer-chatbot)
 4. [Installation](#installation)
 5. [Usage](#usage)
